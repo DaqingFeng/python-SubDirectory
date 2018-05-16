@@ -5,6 +5,6 @@ Python using component design pattern (Python 子文件夹引入)
 * 1. Import sub directory py file 
 * 2. Import upper directory py file.
 
-* Running Capture.
+* Output.
 <img src="https://raw.githubusercontent.com/DaqingFeng/python-SubDirectory/master/picture/runingpage.png">
 
